@@ -30,15 +30,21 @@ Para realizar las transformaciones solicitadas, utilicé las siguientes libreria
 
 -Numpy
 
-Trabajé sobre los 4 datasets provistos, luego se analizar y realizar las normalizaciones solicitadas en cada uno de ellos, compile toda la informacion en un único dataframe que luego exporte a csv para poder trabajar con todo el set de datos completo. El detalle de éstas operaciones se encuentra en la carpeta "transformaciones".
+Trabajé sobre los 4 datasets provistos, luego se analizar y realizar las normalizaciones solicitadas en cada uno de ellos, compile toda la informacion en un único dataframe que luego exporte a csv para poder trabajar con todo el set de datos completo. El detalle de éstas operaciones se encuentra en la carpeta "Transformaciones".
+[Enlace](https://github.com/SoleGon/Henry-Labs-PI-1/tree/main/Transformaciones)
+
 
 ## Querys
 
-Sobre el csv normalizado mencionado anteriormente, elabore las consultas solicitadas utilizando también las librerias pandas y numpy: las mismas servirán de base para  los pasos siguientes. El detalle del código desarrollado se encuentra en la carpeta "querys"
+Sobre el csv normalizado mencionado anteriormente, elabore las consultas solicitadas utilizando también las librerias pandas y numpy: las mismas servirán de base para  los pasos siguientes. El detalle del código desarrollado se encuentra en la carpeta "querys-prueba"
+[Enlace](https://github.com/SoleGon/Henry-Labs-PI-1/tree/main/Querys-prueba)
+
 
 ## FastApi
 
 Para cumplir con disponibilizar las consultas requeridas, utilicé FastApi, ya que es un framework rápido para construir Apis. Trabajé sobre las querys realizadas anteriormente para construir las funciones y luego de instalar FastApi, mediante uvicorn (servidor de alto rendimiento) probé las funciones de manera local, obteniendo un resultado exitoso. El la carpeta "FastApi" se encuentra el archivo main con las funciones y los requirements, junto con el detalle de ésta etapa del proceso
+[Enlace](https://github.com/SoleGon/Henry-Labs-PI-1/tree/main/FastApi)
+
 
 ## FastApiDeta
 
@@ -51,6 +57,7 @@ Finalmente para realizar el deploy de la aplicación FastApi, utilicé Deta. Los
 - deta auth disable
 
 En el archivo "fastapideta" se encuentra el archivo main y requirements con el detalle. El resultado del deploy fue exitoso, respondiendo todas las consultas solicitadas correctamente: en éste caso la data base de consulta es el link de acceso al csv final(con la data normalizada) alojado en éste repositorio
+[Enlace](https://github.com/SoleGon/Henry-Labs-PI-1/tree/main/fastapideta)
 
 
 
