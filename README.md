@@ -50,21 +50,34 @@ Finalmente para realizar el deploy de la aplicación FastApi, utilicé Deta. Los
 - deta deploy
 - deta auth disable
 
-En el archivo "fastapideta" se encuentra el archivo main y requirements con el detalle. El resultado del deploy fue exitoso, respondiendo todas las consultas solicitadas correctamente
+En el archivo "fastapideta" se encuentra el archivo main y requirements con el detalle. El resultado del deploy fue exitoso, respondiendo todas las consultas solicitadas correctamente: en éste caso la data base de consulta es el link de acceso al csv final(con la data normalizada) alojado en éste repositorio
 
-# LINK DE ACCESO PARA CONSULTAS
 
-Se disponibiliza el link de acceso de Deta para consultas👇
+
+# LINK DE ACCESO A DETA PARA CONSULTAS
+
+
+Se disponibiliza el link de acceso a Deta para consultas👇
 
 
 https://vqqswg.deta.dev/
+
+
 
 
 ## Video Explicativo
 
 
 
+
+
+
+
+
 link ☝
+
+
+
 
 
 
