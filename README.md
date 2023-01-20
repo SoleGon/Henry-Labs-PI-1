@@ -60,7 +60,7 @@ En el archivo "fastapideta" se encuentra el archivo main y requirements con el d
 Se disponibiliza el link de acceso a Deta para consultas👇
 
 
-https://vqqswg.deta.dev/
+https://vqqswg.deta.dev/docs
 
 
 
