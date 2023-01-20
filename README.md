@@ -80,6 +80,7 @@ https://vqqswg.deta.dev/docs
 
 
 
+https://www.youtube.com/watch?v=DLe1XUdaEkg
 
 link ☝
 
